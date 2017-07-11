@@ -1,0 +1,138 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	margin: 0;
+	padding: 0;
+	background-image: url(http://www.worldofwanderlust.com/wp-content/uploads/2014/04/IMG_9316.jpg);
+	background-size: cover;
+	background-position: center center;
+	background-color: rgba(0,0,0,0.5);
+}
+
+.register {
+	float: right;
+	border-radius: 9px;
+	margin-top: 150px;
+	margin-right: 150px;
+	padding: 10px 20px;
+	background-color: LightSlateGray;
+	opacity: 0.8;
+	width: 250px;
+}
+
+#sign{
+	font-family: 'Indie Flower', cursive;
+	font-size: 40px;
+	font-weight: normal;
+	color: white;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.showcase {
+	clear: both;
+	float: left;
+	margin-left: 150px;
+}
+
+#branding h1{
+	float: right;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: normal;
+	color: Snow;
+	margin-right: 89.15%;
+}
+
+.showcase h1 {
+	font-family: 'Indie Flower', cursive;
+	font-size: 65px;
+	font-weight: normal;
+	text-align: center;
+	color: Snow;
+	margin-bottom: 74px;
+}
+
+.showcase p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 55px;
+	font-weight: normal;
+	color: #0E8BC4;
+	margin-bottom: 80px;
+}
+
+#icon img{
+	float: left;
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.button1{
+	height: 38px;
+	background: #0E8BC4;
+	border: 0;
+	color: Snow;
+	text-decoration: none;
+}
+
+footer {
+	margin: 0;
+	padding: 0;
+	clear: both;
+	color: Snow;
+	text-align: right;
+}
+
+footer p{
+	margin: 0;
+	padding: 0;
+}
+
+#row1, #row2, #row3 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.button2{
+	font-size: 15px;
+	font-weight: bold;
+	float: right;
+	margin-top: 22px;
+	margin-bottom: 15px;
+	margin-right: 5px;
+	padding; 0;
+	border: 0;
+	color: #0E8BC4;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+#row4 p{
+	float: left;
+	margin-top: 20px;
+	padding: 0;
+}
+
+#start {
+	font-size: 15px;
+	text-decoration: none;
+	color: Snow;
+}
+
+#signin{
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #0E8BC4;
+	margin-right: 11px;
+}
+
+
+
+
+
+
+

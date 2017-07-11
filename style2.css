@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	height: 701px;
+	margin: 0;
+	padding: 0;
+	background-image: url(https://i.stack.imgur.com/gDxRP.png);
+	background-size: cover;
+	background-position: center center;
+	background-color: rgba(0,0,0,0.5);
+	opacity: 0.3;
+}
+
+h1{
+	margin: 0;
+	padding: 20px;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: normal;
+	background-color: #0E8BC4;
+	color: Snow;
+}
+
+h2{
+	margin: 0;
+	padding: 0;
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: normal;
+	color: Snow;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
